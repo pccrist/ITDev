@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0JbrdPdnUycZ0qSfGTdrRrj0rDD7W6G5BVMga3c4FM/i6qCwR+APgiB05hdzT+VOvis923MCEkwKkfsCIduRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pccri\\source\\Projetos\\TradeBank\\TradeBank\\TradeBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pccri\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\pccri\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
